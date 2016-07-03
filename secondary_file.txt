@@ -2,4 +2,5 @@ this is the second file that I added to my project
 
 this is edited file
 this is just in master
-branch_to_delete2
+this is in branch_for_merge
+
